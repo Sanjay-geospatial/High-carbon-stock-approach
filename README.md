@@ -51,7 +51,7 @@ We use:
 4. **Validation:**
    - Calculate RMSE and R square.
 
-   ![Scatter plot](images/scatter plot.png)
+![Scatter plot](images/scatter_plot.png)
 
 ---
 
