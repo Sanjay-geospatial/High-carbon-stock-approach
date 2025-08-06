@@ -1,6 +1,6 @@
 # 🌳 High Carbon Stock Estimation using Satellite Embeddings and GEDI in Sabah, Malaysia
 
-![HCS map](images/Picture1.png)
+![HCS map](images/Picture2.png)
 
 This project estimates **Aboveground Biomass Density (AGB)** and identifies **High Carbon Stock (HCS)** areas in the **Sabah region of Malaysia** using:
 
