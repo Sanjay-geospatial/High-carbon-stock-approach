@@ -51,6 +51,8 @@ We use:
 4. **Validation:**
    - Calculate RMSE and R square.
 
+   ![Scatter plot](images/scatter plot.png)
+
 ---
 
 ## 📊 Output Layers
