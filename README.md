@@ -5,7 +5,7 @@
 This project estimates **Aboveground Biomass Density (AGB)** and identifies **High Carbon Stock (HCS)** areas in the **Sabah region of Malaysia** using:
 
 - Google DeepMind’s Satellite Embeddings dataset
-- NASA’s GEDI L2A Biomass product
+- NASA’s GEDI L4A Biomass product
 - Random Forest regression model
 - Google Earth Engine (GEE)
 
